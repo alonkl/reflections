@@ -14,3 +14,7 @@ we can make another syale or form of code to the same repositry.
 
 How do the diagrams help you visualize the branch structure?
 to anderstand the commit by changing them and what branch are there .
+
+What are the pros and cons of Git's automatic merging vs.always doing merges manually?
+
+the cons it for a simple mmerge like changes that two branch are made it do automatic but for complite we make it manualy .
