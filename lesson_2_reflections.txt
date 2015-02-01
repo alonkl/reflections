@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+i make a cuppel of file to the directory to start tracking this folder 
+and  i need to do it because git need to know that i want to track  this folder.
+
+How is the staging area different from the working directory and the repositry? What value do you think it offers?
+i think it make another stage before addidng file to the reppositry that we can make changes and see what we not commit to the repositry.
