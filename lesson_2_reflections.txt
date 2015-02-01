@@ -4,3 +4,6 @@ and  i need to do it because git need to know that i want to track  this folder.
 
 How is the staging area different from the working directory and the repositry? What value do you think it offers?
 i think it make another stage before addidng file to the reppositry that we can make changes and see what we not commit to the repositry.
+
+How can you ude the staging area to make sure you have one per logical change?
+by the way that i first move to the staging area and after to the repositry.
